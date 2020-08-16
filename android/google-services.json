@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899414327676",
+    "firebase_url": "https://me-afsal-hello.firebaseio.com",
+    "project_id": "me-afsal-hello",
+    "storage_bucket": "me-afsal-hello.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899414327676:android:edd41fe66862e782ffe4f9",
+        "android_client_info": {
+          "package_name": "me.afsal.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899414327676-9q0as00lfg16u05buvf2nupfba36ldic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntNPmYlHjBBMLc3oVTodGIlfIN1ooIB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899414327676-9q0as00lfg16u05buvf2nupfba36ldic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
